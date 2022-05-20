@@ -1,0 +1,19 @@
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Languages</title>
+</head>
+<body>
+    <h1><a href="{% url 'index' %}">Languages List</a></h1>
+    <ol start="{{ languages.start_index }}">
+        {% for language in languages %}
+            <li><a href="{% url 'countries_list_lang' language %}"> {{ language }}</a></li>
+        {% endfor %}
+    </ol>
+{% include "countries/pagination.html" with page=languages %}
+</body>
+</html>

@@ -1,0 +1,26 @@
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Countries</title>
+</head>
+<body>
+<h1><a href="{% url 'index' %}">Countries List</a></h1>
+    <p>Countries that start with:</p>
+    <div class="alpha">
+        <ul class="list-inline">
+        {% for alpha in alphabet %}
+            <li><a href="{% url 'countries_list_alpha' alpha %}">{{ alpha }}</a></li>
+        {% endfor %}
+        </ul>
+    </div>
+    <ol start="{{ countries.start_index }}">
+        {% for country in countries %}
+            <li><a href="{% url 'countries_languages' country %}"> {{ country.name }}</a></li>
+        {% endfor %}
+    </ol>
+{% include "countries/pagination.html" with page=countries %}
+</body>
+</html>

@@ -1,0 +1,19 @@
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Countries</title>
+</head>
+<body>
+<h1><a href="{% url 'index' %}">Countries starts with {{ alpha }}</a></h1>
+    <ol>
+        {% for country in countries %}
+            <li><a href="{% url 'countries_languages' country %}"> {{ country }}</a></li>
+        {% endfor %}
+    </ol>
+    <p><a href="{% url 'countries_list' %}">Back to countries list</a></p>
+</body>
+</html>

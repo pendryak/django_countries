@@ -1,0 +1,7954 @@
+[
+  {
+    "model": "countries.country_languages",
+    "pk": 1,
+    "fields": {
+      "country_id": 1,
+      "language_id": 33
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 2,
+    "fields": {
+      "country_id": 1,
+      "language_id": 102
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 3,
+    "fields": {
+      "country_id": 1,
+      "language_id": 339
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 4,
+    "fields": {
+      "country_id": 1,
+      "language_id": 441
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 5,
+    "fields": {
+      "country_id": 1,
+      "language_id": 449
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 6,
+    "fields": {
+      "country_id": 2,
+      "language_id": 11
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 7,
+    "fields": {
+      "country_id": 2,
+      "language_id": 150
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 8,
+    "fields": {
+      "country_id": 2,
+      "language_id": 245
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 9,
+    "fields": {
+      "country_id": 3,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 10,
+    "fields": {
+      "country_id": 3,
+      "language_id": 48
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 11,
+    "fields": {
+      "country_id": 4,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 12,
+    "fields": {
+      "country_id": 4,
+      "language_id": 365
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 13,
+    "fields": {
+      "country_id": 4,
+      "language_id": 430
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 14,
+    "fields": {
+      "country_id": 5,
+      "language_id": 71
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 15,
+    "fields": {
+      "country_id": 5,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 16,
+    "fields": {
+      "country_id": 5,
+      "language_id": 347
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 17,
+    "fields": {
+      "country_id": 5,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 18,
+    "fields": {
+      "country_id": 6,
+      "language_id": 12
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 19,
+    "fields": {
+      "country_id": 6,
+      "language_id": 84
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 20,
+    "fields": {
+      "country_id": 6,
+      "language_id": 212
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 21,
+    "fields": {
+      "country_id": 6,
+      "language_id": 236
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 22,
+    "fields": {
+      "country_id": 6,
+      "language_id": 240
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 23,
+    "fields": {
+      "country_id": 6,
+      "language_id": 243
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 24,
+    "fields": {
+      "country_id": 6,
+      "language_id": 283
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 25,
+    "fields": {
+      "country_id": 6,
+      "language_id": 322
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 26,
+    "fields": {
+      "country_id": 6,
+      "language_id": 332
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 27,
+    "fields": {
+      "country_id": 7,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 28,
+    "fields": {
+      "country_id": 8,
+      "language_id": 93
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 29,
+    "fields": {
+      "country_id": 8,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 30,
+    "fields": {
+      "country_id": 9,
+      "language_id": 181
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 31,
+    "fields": {
+      "country_id": 9,
+      "language_id": 183
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 32,
+    "fields": {
+      "country_id": 9,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 33,
+    "fields": {
+      "country_id": 10,
+      "language_id": 21
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 34,
+    "fields": {
+      "country_id": 10,
+      "language_id": 26
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 35,
+    "fields": {
+      "country_id": 11,
+      "language_id": 112
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 36,
+    "fields": {
+      "country_id": 11,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 37,
+    "fields": {
+      "country_id": 11,
+      "language_id": 337
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 38,
+    "fields": {
+      "country_id": 11,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 39,
+    "fields": {
+      "country_id": 12,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 40,
+    "fields": {
+      "country_id": 12,
+      "language_id": 67
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 41,
+    "fields": {
+      "country_id": 12,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 42,
+    "fields": {
+      "country_id": 12,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 43,
+    "fields": {
+      "country_id": 12,
+      "language_id": 150
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 44,
+    "fields": {
+      "country_id": 12,
+      "language_id": 183
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 45,
+    "fields": {
+      "country_id": 12,
+      "language_id": 378
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 46,
+    "fields": {
+      "country_id": 12,
+      "language_id": 451
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 47,
+    "fields": {
+      "country_id": 13,
+      "language_id": 98
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 48,
+    "fields": {
+      "country_id": 13,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 49,
+    "fields": {
+      "country_id": 13,
+      "language_id": 174
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 50,
+    "fields": {
+      "country_id": 13,
+      "language_id": 345
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 51,
+    "fields": {
+      "country_id": 13,
+      "language_id": 356
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 52,
+    "fields": {
+      "country_id": 13,
+      "language_id": 378
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 53,
+    "fields": {
+      "country_id": 13,
+      "language_id": 390
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 54,
+    "fields": {
+      "country_id": 13,
+      "language_id": 440
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 55,
+    "fields": {
+      "country_id": 14,
+      "language_id": 21
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 56,
+    "fields": {
+      "country_id": 14,
+      "language_id": 26
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 57,
+    "fields": {
+      "country_id": 14,
+      "language_id": 228
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 58,
+    "fields": {
+      "country_id": 14,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 59,
+    "fields": {
+      "country_id": 15,
+      "language_id": 93
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 60,
+    "fields": {
+      "country_id": 15,
+      "language_id": 94
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 61,
+    "fields": {
+      "country_id": 16,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 62,
+    "fields": {
+      "country_id": 16,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 63,
+    "fields": {
+      "country_id": 17,
+      "language_id": 47
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 64,
+    "fields": {
+      "country_id": 17,
+      "language_id": 74
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 65,
+    "fields": {
+      "country_id": 17,
+      "language_id": 139
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 66,
+    "fields": {
+      "country_id": 17,
+      "language_id": 202
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 67,
+    "fields": {
+      "country_id": 17,
+      "language_id": 273
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 68,
+    "fields": {
+      "country_id": 17,
+      "language_id": 371
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 69,
+    "fields": {
+      "country_id": 17,
+      "language_id": 431
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 70,
+    "fields": {
+      "country_id": 18,
+      "language_id": 29
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 71,
+    "fields": {
+      "country_id": 18,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 72,
+    "fields": {
+      "country_id": 19,
+      "language_id": 45
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 73,
+    "fields": {
+      "country_id": 19,
+      "language_id": 345
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 74,
+    "fields": {
+      "country_id": 19,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 75,
+    "fields": {
+      "country_id": 19,
+      "language_id": 446
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 76,
+    "fields": {
+      "country_id": 20,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 77,
+    "fields": {
+      "country_id": 20,
+      "language_id": 112
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 78,
+    "fields": {
+      "country_id": 20,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 79,
+    "fields": {
+      "country_id": 20,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 80,
+    "fields": {
+      "country_id": 20,
+      "language_id": 183
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 81,
+    "fields": {
+      "country_id": 20,
+      "language_id": 440
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 82,
+    "fields": {
+      "country_id": 21,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 83,
+    "fields": {
+      "country_id": 21,
+      "language_id": 138
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 84,
+    "fields": {
+      "country_id": 21,
+      "language_id": 277
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 85,
+    "fields": {
+      "country_id": 21,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 86,
+    "fields": {
+      "country_id": 22,
+      "language_id": 3
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 87,
+    "fields": {
+      "country_id": 22,
+      "language_id": 8
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 88,
+    "fields": {
+      "country_id": 22,
+      "language_id": 39
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 89,
+    "fields": {
+      "country_id": 22,
+      "language_id": 125
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 90,
+    "fields": {
+      "country_id": 22,
+      "language_id": 130
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 91,
+    "fields": {
+      "country_id": 22,
+      "language_id": 186
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 92,
+    "fields": {
+      "country_id": 22,
+      "language_id": 393
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 93,
+    "fields": {
+      "country_id": 23,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 94,
+    "fields": {
+      "country_id": 24,
+      "language_id": 22
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 95,
+    "fields": {
+      "country_id": 24,
+      "language_id": 114
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 96,
+    "fields": {
+      "country_id": 24,
+      "language_id": 308
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 97,
+    "fields": {
+      "country_id": 25,
+      "language_id": 6
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 98,
+    "fields": {
+      "country_id": 25,
+      "language_id": 152
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 99,
+    "fields": {
+      "country_id": 25,
+      "language_id": 201
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 100,
+    "fields": {
+      "country_id": 25,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 101,
+    "fields": {
+      "country_id": 26,
+      "language_id": 55
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 102,
+    "fields": {
+      "country_id": 27,
+      "language_id": 204
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 103,
+    "fields": {
+      "country_id": 27,
+      "language_id": 307
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 104,
+    "fields": {
+      "country_id": 27,
+      "language_id": 367
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 105,
+    "fields": {
+      "country_id": 27,
+      "language_id": 383
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 106,
+    "fields": {
+      "country_id": 27,
+      "language_id": 436
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 107,
+    "fields": {
+      "country_id": 28,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 108,
+    "fields": {
+      "country_id": 28,
+      "language_id": 181
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 109,
+    "fields": {
+      "country_id": 28,
+      "language_id": 183
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 110,
+    "fields": {
+      "country_id": 28,
+      "language_id": 184
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 111,
+    "fields": {
+      "country_id": 28,
+      "language_id": 347
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 112,
+    "fields": {
+      "country_id": 29,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 113,
+    "fields": {
+      "country_id": 29,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 114,
+    "fields": {
+      "country_id": 29,
+      "language_id": 254
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 115,
+    "fields": {
+      "country_id": 29,
+      "language_id": 255
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 116,
+    "fields": {
+      "country_id": 30,
+      "language_id": 60
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 117,
+    "fields": {
+      "country_id": 30,
+      "language_id": 245
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 118,
+    "fields": {
+      "country_id": 30,
+      "language_id": 355
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 119,
+    "fields": {
+      "country_id": 30,
+      "language_id": 440
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 120,
+    "fields": {
+      "country_id": 31,
+      "language_id": 65
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 121,
+    "fields": {
+      "country_id": 31,
+      "language_id": 100
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 122,
+    "fields": {
+      "country_id": 31,
+      "language_id": 113
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 123,
+    "fields": {
+      "country_id": 31,
+      "language_id": 130
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 124,
+    "fields": {
+      "country_id": 31,
+      "language_id": 157
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 125,
+    "fields": {
+      "country_id": 31,
+      "language_id": 300
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 126,
+    "fields": {
+      "country_id": 32,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 127,
+    "fields": {
+      "country_id": 32,
+      "language_id": 210
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 128,
+    "fields": {
+      "country_id": 32,
+      "language_id": 406
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 129,
+    "fields": {
+      "country_id": 33,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 130,
+    "fields": {
+      "country_id": 33,
+      "language_id": 203
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 131,
+    "fields": {
+      "country_id": 33,
+      "language_id": 443
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 132,
+    "fields": {
+      "country_id": 33,
+      "language_id": 451
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 133,
+    "fields": {
+      "country_id": 34,
+      "language_id": 35
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 134,
+    "fields": {
+      "country_id": 34,
+      "language_id": 110
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 135,
+    "fields": {
+      "country_id": 34,
+      "language_id": 121
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 136,
+    "fields": {
+      "country_id": 34,
+      "language_id": 130
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 137,
+    "fields": {
+      "country_id": 34,
+      "language_id": 250
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 138,
+    "fields": {
+      "country_id": 34,
+      "language_id": 262
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 139,
+    "fields": {
+      "country_id": 34,
+      "language_id": 276
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 140,
+    "fields": {
+      "country_id": 34,
+      "language_id": 427
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 141,
+    "fields": {
+      "country_id": 35,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 142,
+    "fields": {
+      "country_id": 35,
+      "language_id": 112
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 143,
+    "fields": {
+      "country_id": 35,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 144,
+    "fields": {
+      "country_id": 35,
+      "language_id": 118
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 145,
+    "fields": {
+      "country_id": 35,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 146,
+    "fields": {
+      "country_id": 35,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 147,
+    "fields": {
+      "country_id": 35,
+      "language_id": 183
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 148,
+    "fields": {
+      "country_id": 35,
+      "language_id": 345
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 149,
+    "fields": {
+      "country_id": 35,
+      "language_id": 347
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 150,
+    "fields": {
+      "country_id": 35,
+      "language_id": 348
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 151,
+    "fields": {
+      "country_id": 35,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 152,
+    "fields": {
+      "country_id": 35,
+      "language_id": 446
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 153,
+    "fields": {
+      "country_id": 36,
+      "language_id": 95
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 154,
+    "fields": {
+      "country_id": 36,
+      "language_id": 347
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 155,
+    "fields": {
+      "country_id": 37,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 156,
+    "fields": {
+      "country_id": 38,
+      "language_id": 36
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 157,
+    "fields": {
+      "country_id": 38,
+      "language_id": 140
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 158,
+    "fields": {
+      "country_id": 38,
+      "language_id": 264
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 159,
+    "fields": {
+      "country_id": 38,
+      "language_id": 282
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 160,
+    "fields": {
+      "country_id": 38,
+      "language_id": 310
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 161,
+    "fields": {
+      "country_id": 38,
+      "language_id": 372
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 162,
+    "fields": {
+      "country_id": 39,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 163,
+    "fields": {
+      "country_id": 39,
+      "language_id": 148
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 164,
+    "fields": {
+      "country_id": 39,
+      "language_id": 161
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 165,
+    "fields": {
+      "country_id": 39,
+      "language_id": 191
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 166,
+    "fields": {
+      "country_id": 39,
+      "language_id": 278
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 167,
+    "fields": {
+      "country_id": 39,
+      "language_id": 330
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 168,
+    "fields": {
+      "country_id": 39,
+      "language_id": 372
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 169,
+    "fields": {
+      "country_id": 39,
+      "language_id": 415
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 170,
+    "fields": {
+      "country_id": 40,
+      "language_id": 6
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 171,
+    "fields": {
+      "country_id": 40,
+      "language_id": 19
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 172,
+    "fields": {
+      "country_id": 40,
+      "language_id": 354
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 173,
+    "fields": {
+      "country_id": 40,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 174,
+    "fields": {
+      "country_id": 41,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 175,
+    "fields": {
+      "country_id": 41,
+      "language_id": 108
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 176,
+    "fields": {
+      "country_id": 41,
+      "language_id": 173
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 177,
+    "fields": {
+      "country_id": 41,
+      "language_id": 267
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 178,
+    "fields": {
+      "country_id": 41,
+      "language_id": 286
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 179,
+    "fields": {
+      "country_id": 41,
+      "language_id": 296
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 180,
+    "fields": {
+      "country_id": 41,
+      "language_id": 351
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 181,
+    "fields": {
+      "country_id": 41,
+      "language_id": 424
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 182,
+    "fields": {
+      "country_id": 41,
+      "language_id": 437
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 183,
+    "fields": {
+      "country_id": 41,
+      "language_id": 445
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 184,
+    "fields": {
+      "country_id": 41,
+      "language_id": 463
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 185,
+    "fields": {
+      "country_id": 41,
+      "language_id": 468
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 186,
+    "fields": {
+      "country_id": 42,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 187,
+    "fields": {
+      "country_id": 42,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 188,
+    "fields": {
+      "country_id": 43,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 189,
+    "fields": {
+      "country_id": 43,
+      "language_id": 254
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 190,
+    "fields": {
+      "country_id": 44,
+      "language_id": 20
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 191,
+    "fields": {
+      "country_id": 44,
+      "language_id": 69
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 192,
+    "fields": {
+      "country_id": 44,
+      "language_id": 78
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 193,
+    "fields": {
+      "country_id": 44,
+      "language_id": 93
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 194,
+    "fields": {
+      "country_id": 44,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 195,
+    "fields": {
+      "country_id": 45,
+      "language_id": 88
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 196,
+    "fields": {
+      "country_id": 45,
+      "language_id": 89
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 197,
+    "fields": {
+      "country_id": 45,
+      "language_id": 90
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 198,
+    "fields": {
+      "country_id": 45,
+      "language_id": 92
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 199,
+    "fields": {
+      "country_id": 45,
+      "language_id": 91
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 200,
+    "fields": {
+      "country_id": 46,
+      "language_id": 212
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 201,
+    "fields": {
+      "country_id": 46,
+      "language_id": 280
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 202,
+    "fields": {
+      "country_id": 46,
+      "language_id": 281
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 203,
+    "fields": {
+      "country_id": 46,
+      "language_id": 349
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 204,
+    "fields": {
+      "country_id": 46,
+      "language_id": 368
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 205,
+    "fields": {
+      "country_id": 46,
+      "language_id": 417
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 206,
+    "fields": {
+      "country_id": 47,
+      "language_id": 230
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 207,
+    "fields": {
+      "country_id": 47,
+      "language_id": 206
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 208,
+    "fields": {
+      "country_id": 47,
+      "language_id": 406
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 209,
+    "fields": {
+      "country_id": 47,
+      "language_id": 433
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 210,
+    "fields": {
+      "country_id": 48,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 211,
+    "fields": {
+      "country_id": 48,
+      "language_id": 268
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 212,
+    "fields": {
+      "country_id": 49,
+      "language_id": 78
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 213,
+    "fields": {
+      "country_id": 49,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 214,
+    "fields": {
+      "country_id": 49,
+      "language_id": 93
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 215,
+    "fields": {
+      "country_id": 49,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 216,
+    "fields": {
+      "country_id": 50,
+      "language_id": 378
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 217,
+    "fields": {
+      "country_id": 50,
+      "language_id": 390
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 218,
+    "fields": {
+      "country_id": 51,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 219,
+    "fields": {
+      "country_id": 52,
+      "language_id": 150
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 220,
+    "fields": {
+      "country_id": 52,
+      "language_id": 440
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 221,
+    "fields": {
+      "country_id": 53,
+      "language_id": 98
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 222,
+    "fields": {
+      "country_id": 53,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 223,
+    "fields": {
+      "country_id": 53,
+      "language_id": 174
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 224,
+    "fields": {
+      "country_id": 53,
+      "language_id": 297
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 225,
+    "fields": {
+      "country_id": 53,
+      "language_id": 345
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 226,
+    "fields": {
+      "country_id": 53,
+      "language_id": 355
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 227,
+    "fields": {
+      "country_id": 53,
+      "language_id": 385
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 228,
+    "fields": {
+      "country_id": 53,
+      "language_id": 389
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 229,
+    "fields": {
+      "country_id": 54,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 230,
+    "fields": {
+      "country_id": 54,
+      "language_id": 101
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 231,
+    "fields": {
+      "country_id": 54,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 232,
+    "fields": {
+      "country_id": 54,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 233,
+    "fields": {
+      "country_id": 54,
+      "language_id": 315
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 234,
+    "fields": {
+      "country_id": 54,
+      "language_id": 408
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 235,
+    "fields": {
+      "country_id": 54,
+      "language_id": 440
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 236,
+    "fields": {
+      "country_id": 55,
+      "language_id": 4
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 237,
+    "fields": {
+      "country_id": 55,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 238,
+    "fields": {
+      "country_id": 55,
+      "language_id": 392
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 239,
+    "fields": {
+      "country_id": 56,
+      "language_id": 93
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 240,
+    "fields": {
+      "country_id": 56,
+      "language_id": 94
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 241,
+    "fields": {
+      "country_id": 57,
+      "language_id": 94
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 242,
+    "fields": {
+      "country_id": 57,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 243,
+    "fields": {
+      "country_id": 58,
+      "language_id": 347
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 244,
+    "fields": {
+      "country_id": 58,
+      "language_id": 404
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 245,
+    "fields": {
+      "country_id": 59,
+      "language_id": 201
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 246,
+    "fields": {
+      "country_id": 59,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 247,
+    "fields": {
+      "country_id": 60,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 248,
+    "fields": {
+      "country_id": 60,
+      "language_id": 386
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 249,
+    "fields": {
+      "country_id": 61,
+      "language_id": 303
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 250,
+    "fields": {
+      "country_id": 61,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 251,
+    "fields": {
+      "country_id": 62,
+      "language_id": 57
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 252,
+    "fields": {
+      "country_id": 62,
+      "language_id": 121
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 253,
+    "fields": {
+      "country_id": 63,
+      "language_id": 4
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 254,
+    "fields": {
+      "country_id": 63,
+      "language_id": 51
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 255,
+    "fields": {
+      "country_id": 63,
+      "language_id": 160
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 256,
+    "fields": {
+      "country_id": 63,
+      "language_id": 363
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 257,
+    "fields": {
+      "country_id": 63,
+      "language_id": 425
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 258,
+    "fields": {
+      "country_id": 63,
+      "language_id": 426
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 259,
+    "fields": {
+      "country_id": 64,
+      "language_id": 45
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 260,
+    "fields": {
+      "country_id": 64,
+      "language_id": 119
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 261,
+    "fields": {
+      "country_id": 64,
+      "language_id": 124
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 262,
+    "fields": {
+      "country_id": 64,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 263,
+    "fields": {
+      "country_id": 64,
+      "language_id": 446
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 264,
+    "fields": {
+      "country_id": 65,
+      "language_id": 13
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 265,
+    "fields": {
+      "country_id": 65,
+      "language_id": 156
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 266,
+    "fields": {
+      "country_id": 65,
+      "language_id": 327
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 267,
+    "fields": {
+      "country_id": 65,
+      "language_id": 384
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 268,
+    "fields": {
+      "country_id": 65,
+      "language_id": 392
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 269,
+    "fields": {
+      "country_id": 65,
+      "language_id": 426
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 270,
+    "fields": {
+      "country_id": 65,
+      "language_id": 452
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 271,
+    "fields": {
+      "country_id": 66,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 272,
+    "fields": {
+      "country_id": 67,
+      "language_id": 101
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 273,
+    "fields": {
+      "country_id": 67,
+      "language_id": 122
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 274,
+    "fields": {
+      "country_id": 68,
+      "language_id": 123
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 275,
+    "fields": {
+      "country_id": 68,
+      "language_id": 171
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 276,
+    "fields": {
+      "country_id": 69,
+      "language_id": 119
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 277,
+    "fields": {
+      "country_id": 69,
+      "language_id": 124
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 278,
+    "fields": {
+      "country_id": 69,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 279,
+    "fields": {
+      "country_id": 69,
+      "language_id": 362
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 280,
+    "fields": {
+      "country_id": 69,
+      "language_id": 408
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 281,
+    "fields": {
+      "country_id": 70,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 282,
+    "fields": {
+      "country_id": 70,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 283,
+    "fields": {
+      "country_id": 70,
+      "language_id": 183
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 284,
+    "fields": {
+      "country_id": 70,
+      "language_id": 347
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 285,
+    "fields": {
+      "country_id": 70,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 286,
+    "fields": {
+      "country_id": 70,
+      "language_id": 440
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 287,
+    "fields": {
+      "country_id": 71,
+      "language_id": 94
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 288,
+    "fields": {
+      "country_id": 71,
+      "language_id": 181
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 289,
+    "fields": {
+      "country_id": 72,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 290,
+    "fields": {
+      "country_id": 72,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 291,
+    "fields": {
+      "country_id": 72,
+      "language_id": 411
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 292,
+    "fields": {
+      "country_id": 73,
+      "language_id": 121
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 293,
+    "fields": {
+      "country_id": 73,
+      "language_id": 280
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 294,
+    "fields": {
+      "country_id": 73,
+      "language_id": 301
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 295,
+    "fields": {
+      "country_id": 73,
+      "language_id": 350
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 296,
+    "fields": {
+      "country_id": 74,
+      "language_id": 107
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 297,
+    "fields": {
+      "country_id": 74,
+      "language_id": 130
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 298,
+    "fields": {
+      "country_id": 74,
+      "language_id": 258
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 299,
+    "fields": {
+      "country_id": 74,
+      "language_id": 396
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 300,
+    "fields": {
+      "country_id": 74,
+      "language_id": 458
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 301,
+    "fields": {
+      "country_id": 75,
+      "language_id": 1
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 302,
+    "fields": {
+      "country_id": 75,
+      "language_id": 21
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 303,
+    "fields": {
+      "country_id": 75,
+      "language_id": 26
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 304,
+    "fields": {
+      "country_id": 75,
+      "language_id": 141
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 305,
+    "fields": {
+      "country_id": 75,
+      "language_id": 328
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 306,
+    "fields": {
+      "country_id": 75,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 307,
+    "fields": {
+      "country_id": 76,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 308,
+    "fields": {
+      "country_id": 76,
+      "language_id": 150
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 309,
+    "fields": {
+      "country_id": 76,
+      "language_id": 183
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 310,
+    "fields": {
+      "country_id": 76,
+      "language_id": 345
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 311,
+    "fields": {
+      "country_id": 76,
+      "language_id": 399
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 312,
+    "fields": {
+      "country_id": 76,
+      "language_id": 440
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 313,
+    "fields": {
+      "country_id": 77,
+      "language_id": 9
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 314,
+    "fields": {
+      "country_id": 77,
+      "language_id": 120
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 315,
+    "fields": {
+      "country_id": 77,
+      "language_id": 133
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 316,
+    "fields": {
+      "country_id": 77,
+      "language_id": 157
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 317,
+    "fields": {
+      "country_id": 77,
+      "language_id": 186
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 318,
+    "fields": {
+      "country_id": 77,
+      "language_id": 300
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 319,
+    "fields": {
+      "country_id": 78,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 320,
+    "fields": {
+      "country_id": 78,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 321,
+    "fields": {
+      "country_id": 79,
+      "language_id": 150
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 322,
+    "fields": {
+      "country_id": 79,
+      "language_id": 440
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 323,
+    "fields": {
+      "country_id": 80,
+      "language_id": 101
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 324,
+    "fields": {
+      "country_id": 80,
+      "language_id": 151
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 325,
+    "fields": {
+      "country_id": 81,
+      "language_id": 93
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 326,
+    "fields": {
+      "country_id": 82,
+      "language_id": 94
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 327,
+    "fields": {
+      "country_id": 82,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 328,
+    "fields": {
+      "country_id": 83,
+      "language_id": 75
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 329,
+    "fields": {
+      "country_id": 83,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 330,
+    "fields": {
+      "country_id": 83,
+      "language_id": 184
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 331,
+    "fields": {
+      "country_id": 83,
+      "language_id": 215
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 332,
+    "fields": {
+      "country_id": 83,
+      "language_id": 341
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 333,
+    "fields": {
+      "country_id": 84,
+      "language_id": 66
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 334,
+    "fields": {
+      "country_id": 84,
+      "language_id": 200
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 335,
+    "fields": {
+      "country_id": 84,
+      "language_id": 260
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 336,
+    "fields": {
+      "country_id": 84,
+      "language_id": 352
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 337,
+    "fields": {
+      "country_id": 84,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 338,
+    "fields": {
+      "country_id": 85,
+      "language_id": 130
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 339,
+    "fields": {
+      "country_id": 85,
+      "language_id": 211
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 340,
+    "fields": {
+      "country_id": 85,
+      "language_id": 218
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 341,
+    "fields": {
+      "country_id": 85,
+      "language_id": 232
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 342,
+    "fields": {
+      "country_id": 85,
+      "language_id": 258
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 343,
+    "fields": {
+      "country_id": 85,
+      "language_id": 405
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 344,
+    "fields": {
+      "country_id": 85,
+      "language_id": 460
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 345,
+    "fields": {
+      "country_id": 86,
+      "language_id": 31
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 346,
+    "fields": {
+      "country_id": 86,
+      "language_id": 95
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 347,
+    "fields": {
+      "country_id": 86,
+      "language_id": 130
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 348,
+    "fields": {
+      "country_id": 86,
+      "language_id": 258
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 349,
+    "fields": {
+      "country_id": 86,
+      "language_id": 265
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 350,
+    "fields": {
+      "country_id": 86,
+      "language_id": 347
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 351,
+    "fields": {
+      "country_id": 87,
+      "language_id": 20
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 352,
+    "fields": {
+      "country_id": 87,
+      "language_id": 69
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 353,
+    "fields": {
+      "country_id": 87,
+      "language_id": 93
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 354,
+    "fields": {
+      "country_id": 88,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 355,
+    "fields": {
+      "country_id": 88,
+      "language_id": 162
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 356,
+    "fields": {
+      "country_id": 89,
+      "language_id": 183
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 357,
+    "fields": {
+      "country_id": 90,
+      "language_id": 93
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 358,
+    "fields": {
+      "country_id": 90,
+      "language_id": 138
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 359,
+    "fields": {
+      "country_id": 90,
+      "language_id": 289
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 360,
+    "fields": {
+      "country_id": 90,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 361,
+    "fields": {
+      "country_id": 91,
+      "language_id": 67
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 362,
+    "fields": {
+      "country_id": 91,
+      "language_id": 83
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 363,
+    "fields": {
+      "country_id": 91,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 364,
+    "fields": {
+      "country_id": 91,
+      "language_id": 129
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 365,
+    "fields": {
+      "country_id": 91,
+      "language_id": 163
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 366,
+    "fields": {
+      "country_id": 92,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 367,
+    "fields": {
+      "country_id": 92,
+      "language_id": 174
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 368,
+    "fields": {
+      "country_id": 92,
+      "language_id": 355
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 369,
+    "fields": {
+      "country_id": 92,
+      "language_id": 356
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 370,
+    "fields": {
+      "country_id": 92,
+      "language_id": 378
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 371,
+    "fields": {
+      "country_id": 92,
+      "language_id": 389
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 372,
+    "fields": {
+      "country_id": 93,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 373,
+    "fields": {
+      "country_id": 93,
+      "language_id": 178
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 374,
+    "fields": {
+      "country_id": 94,
+      "language_id": 22
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 375,
+    "fields": {
+      "country_id": 94,
+      "language_id": 47
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 376,
+    "fields": {
+      "country_id": 94,
+      "language_id": 154
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 377,
+    "fields": {
+      "country_id": 94,
+      "language_id": 171
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 378,
+    "fields": {
+      "country_id": 94,
+      "language_id": 192
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 379,
+    "fields": {
+      "country_id": 94,
+      "language_id": 256
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 380,
+    "fields": {
+      "country_id": 94,
+      "language_id": 270
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 381,
+    "fields": {
+      "country_id": 94,
+      "language_id": 326
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 382,
+    "fields": {
+      "country_id": 94,
+      "language_id": 348
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 383,
+    "fields": {
+      "country_id": 94,
+      "language_id": 414
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 384,
+    "fields": {
+      "country_id": 94,
+      "language_id": 418
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 385,
+    "fields": {
+      "country_id": 94,
+      "language_id": 448
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 386,
+    "fields": {
+      "country_id": 94,
+      "language_id": 369
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 387,
+    "fields": {
+      "country_id": 94,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 388,
+    "fields": {
+      "country_id": 94,
+      "language_id": 213
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 389,
+    "fields": {
+      "country_id": 94,
+      "language_id": 308
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 390,
+    "fields": {
+      "country_id": 94,
+      "language_id": 53
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 391,
+    "fields": {
+      "country_id": 94,
+      "language_id": 196
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 392,
+    "fields": {
+      "country_id": 94,
+      "language_id": 249
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 393,
+    "fields": {
+      "country_id": 94,
+      "language_id": 370
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 394,
+    "fields": {
+      "country_id": 94,
+      "language_id": 387
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 395,
+    "fields": {
+      "country_id": 95,
+      "language_id": 27
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 396,
+    "fields": {
+      "country_id": 95,
+      "language_id": 32
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 397,
+    "fields": {
+      "country_id": 95,
+      "language_id": 37
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 398,
+    "fields": {
+      "country_id": 95,
+      "language_id": 43
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 399,
+    "fields": {
+      "country_id": 95,
+      "language_id": 58
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 400,
+    "fields": {
+      "country_id": 95,
+      "language_id": 185
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 401,
+    "fields": {
+      "country_id": 95,
+      "language_id": 246
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 402,
+    "fields": {
+      "country_id": 95,
+      "language_id": 254
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 403,
+    "fields": {
+      "country_id": 95,
+      "language_id": 288
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 404,
+    "fields": {
+      "country_id": 95,
+      "language_id": 404
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 405,
+    "fields": {
+      "country_id": 96,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 406,
+    "fields": {
+      "country_id": 96,
+      "language_id": 26
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 407,
+    "fields": {
+      "country_id": 96,
+      "language_id": 30
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 408,
+    "fields": {
+      "country_id": 96,
+      "language_id": 33
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 409,
+    "fields": {
+      "country_id": 96,
+      "language_id": 143
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 410,
+    "fields": {
+      "country_id": 96,
+      "language_id": 221
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 411,
+    "fields": {
+      "country_id": 96,
+      "language_id": 242
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 412,
+    "fields": {
+      "country_id": 96,
+      "language_id": 279
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 413,
+    "fields": {
+      "country_id": 96,
+      "language_id": 340
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 414,
+    "fields": {
+      "country_id": 96,
+      "language_id": 441
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 415,
+    "fields": {
+      "country_id": 97,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 416,
+    "fields": {
+      "country_id": 97,
+      "language_id": 23
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 417,
+    "fields": {
+      "country_id": 97,
+      "language_id": 26
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 418,
+    "fields": {
+      "country_id": 97,
+      "language_id": 221
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 419,
+    "fields": {
+      "country_id": 97,
+      "language_id": 340
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 420,
+    "fields": {
+      "country_id": 98,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 421,
+    "fields": {
+      "country_id": 98,
+      "language_id": 182
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 422,
+    "fields": {
+      "country_id": 99,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 423,
+    "fields": {
+      "country_id": 99,
+      "language_id": 167
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 424,
+    "fields": {
+      "country_id": 99,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 425,
+    "fields": {
+      "country_id": 100,
+      "language_id": 11
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 426,
+    "fields": {
+      "country_id": 100,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 427,
+    "fields": {
+      "country_id": 100,
+      "language_id": 128
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 428,
+    "fields": {
+      "country_id": 100,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 429,
+    "fields": {
+      "country_id": 100,
+      "language_id": 183
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 430,
+    "fields": {
+      "country_id": 100,
+      "language_id": 355
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 431,
+    "fields": {
+      "country_id": 100,
+      "language_id": 374
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 432,
+    "fields": {
+      "country_id": 100,
+      "language_id": 390
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 433,
+    "fields": {
+      "country_id": 101,
+      "language_id": 9
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 434,
+    "fields": {
+      "country_id": 101,
+      "language_id": 155
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 435,
+    "fields": {
+      "country_id": 101,
+      "language_id": 219
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 436,
+    "fields": {
+      "country_id": 101,
+      "language_id": 258
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 437,
+    "fields": {
+      "country_id": 101,
+      "language_id": 470
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 438,
+    "fields": {
+      "country_id": 102,
+      "language_id": 93
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 439,
+    "fields": {
+      "country_id": 102,
+      "language_id": 171
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 440,
+    "fields": {
+      "country_id": 103,
+      "language_id": 7
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 441,
+    "fields": {
+      "country_id": 103,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 442,
+    "fields": {
+      "country_id": 103,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 443,
+    "fields": {
+      "country_id": 103,
+      "language_id": 184
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 444,
+    "fields": {
+      "country_id": 103,
+      "language_id": 215
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 445,
+    "fields": {
+      "country_id": 103,
+      "language_id": 341
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 446,
+    "fields": {
+      "country_id": 104,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 447,
+    "fields": {
+      "country_id": 104,
+      "language_id": 21
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 448,
+    "fields": {
+      "country_id": 104,
+      "language_id": 87
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 449,
+    "fields": {
+      "country_id": 105,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 450,
+    "fields": {
+      "country_id": 105,
+      "language_id": 199
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 451,
+    "fields": {
+      "country_id": 105,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 452,
+    "fields": {
+      "country_id": 105,
+      "language_id": 416
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 453,
+    "fields": {
+      "country_id": 105,
+      "language_id": 446
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 454,
+    "fields": {
+      "country_id": 105,
+      "language_id": 449
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 455,
+    "fields": {
+      "country_id": 106,
+      "language_id": 158
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 456,
+    "fields": {
+      "country_id": 106,
+      "language_id": 189
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 457,
+    "fields": {
+      "country_id": 106,
+      "language_id": 190
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 458,
+    "fields": {
+      "country_id": 106,
+      "language_id": 207
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 459,
+    "fields": {
+      "country_id": 106,
+      "language_id": 239
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 460,
+    "fields": {
+      "country_id": 106,
+      "language_id": 241
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 461,
+    "fields": {
+      "country_id": 106,
+      "language_id": 275
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 462,
+    "fields": {
+      "country_id": 106,
+      "language_id": 285
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 463,
+    "fields": {
+      "country_id": 106,
+      "language_id": 324
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 464,
+    "fields": {
+      "country_id": 106,
+      "language_id": 439
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 465,
+    "fields": {
+      "country_id": 107,
+      "language_id": 209
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 466,
+    "fields": {
+      "country_id": 107,
+      "language_id": 442
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 467,
+    "fields": {
+      "country_id": 108,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 468,
+    "fields": {
+      "country_id": 108,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 469,
+    "fields": {
+      "country_id": 109,
+      "language_id": 199
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 470,
+    "fields": {
+      "country_id": 109,
+      "language_id": 208
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 471,
+    "fields": {
+      "country_id": 109,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 472,
+    "fields": {
+      "country_id": 109,
+      "language_id": 409
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 473,
+    "fields": {
+      "country_id": 109,
+      "language_id": 416
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 474,
+    "fields": {
+      "country_id": 109,
+      "language_id": 446
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 475,
+    "fields": {
+      "country_id": 109,
+      "language_id": 449
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 476,
+    "fields": {
+      "country_id": 110,
+      "language_id": 225
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 477,
+    "fields": {
+      "country_id": 110,
+      "language_id": 226
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 478,
+    "fields": {
+      "country_id": 110,
+      "language_id": 294
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 479,
+    "fields": {
+      "country_id": 110,
+      "language_id": 421
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 480,
+    "fields": {
+      "country_id": 111,
+      "language_id": 45
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 481,
+    "fields": {
+      "country_id": 111,
+      "language_id": 227
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 482,
+    "fields": {
+      "country_id": 111,
+      "language_id": 231
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 483,
+    "fields": {
+      "country_id": 111,
+      "language_id": 345
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 484,
+    "fields": {
+      "country_id": 111,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 485,
+    "fields": {
+      "country_id": 111,
+      "language_id": 446
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 486,
+    "fields": {
+      "country_id": 112,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 487,
+    "fields": {
+      "country_id": 112,
+      "language_id": 21
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 488,
+    "fields": {
+      "country_id": 112,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 489,
+    "fields": {
+      "country_id": 113,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 490,
+    "fields": {
+      "country_id": 113,
+      "language_id": 398
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 491,
+    "fields": {
+      "country_id": 113,
+      "language_id": 469
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 492,
+    "fields": {
+      "country_id": 114,
+      "language_id": 42
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 493,
+    "fields": {
+      "country_id": 114,
+      "language_id": 144
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 494,
+    "fields": {
+      "country_id": 114,
+      "language_id": 149
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 495,
+    "fields": {
+      "country_id": 114,
+      "language_id": 218
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 496,
+    "fields": {
+      "country_id": 114,
+      "language_id": 219
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 497,
+    "fields": {
+      "country_id": 114,
+      "language_id": 232
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 498,
+    "fields": {
+      "country_id": 114,
+      "language_id": 258
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 499,
+    "fields": {
+      "country_id": 114,
+      "language_id": 266
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 500,
+    "fields": {
+      "country_id": 115,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 501,
+    "fields": {
+      "country_id": 115,
+      "language_id": 48
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 502,
+    "fields": {
+      "country_id": 116,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 503,
+    "fields": {
+      "country_id": 116,
+      "language_id": 183
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 504,
+    "fields": {
+      "country_id": 116,
+      "language_id": 440
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 505,
+    "fields": {
+      "country_id": 117,
+      "language_id": 45
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 506,
+    "fields": {
+      "country_id": 117,
+      "language_id": 231
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 507,
+    "fields": {
+      "country_id": 117,
+      "language_id": 345
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 508,
+    "fields": {
+      "country_id": 117,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 509,
+    "fields": {
+      "country_id": 117,
+      "language_id": 446
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 510,
+    "fields": {
+      "country_id": 118,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 511,
+    "fields": {
+      "country_id": 118,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 512,
+    "fields": {
+      "country_id": 118,
+      "language_id": 183
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 513,
+    "fields": {
+      "country_id": 118,
+      "language_id": 244
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 514,
+    "fields": {
+      "country_id": 118,
+      "language_id": 347
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 515,
+    "fields": {
+      "country_id": 119,
+      "language_id": 67
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 516,
+    "fields": {
+      "country_id": 119,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 517,
+    "fields": {
+      "country_id": 119,
+      "language_id": 263
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 518,
+    "fields": {
+      "country_id": 119,
+      "language_id": 347
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 519,
+    "fields": {
+      "country_id": 120,
+      "language_id": 11
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 520,
+    "fields": {
+      "country_id": 120,
+      "language_id": 245
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 521,
+    "fields": {
+      "country_id": 120,
+      "language_id": 355
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 522,
+    "fields": {
+      "country_id": 120,
+      "language_id": 378
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 523,
+    "fields": {
+      "country_id": 120,
+      "language_id": 440
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 524,
+    "fields": {
+      "country_id": 121,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 525,
+    "fields": {
+      "country_id": 121,
+      "language_id": 253
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 526,
+    "fields": {
+      "country_id": 122,
+      "language_id": 79
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 527,
+    "fields": {
+      "country_id": 122,
+      "language_id": 233
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 528,
+    "fields": {
+      "country_id": 122,
+      "language_id": 311
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 529,
+    "fields": {
+      "country_id": 122,
+      "language_id": 461
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 530,
+    "fields": {
+      "country_id": 123,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 531,
+    "fields": {
+      "country_id": 123,
+      "language_id": 111
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 532,
+    "fields": {
+      "country_id": 123,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 533,
+    "fields": {
+      "country_id": 123,
+      "language_id": 175
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 534,
+    "fields": {
+      "country_id": 123,
+      "language_id": 254
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 535,
+    "fields": {
+      "country_id": 123,
+      "language_id": 414
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 536,
+    "fields": {
+      "country_id": 124,
+      "language_id": 104
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 537,
+    "fields": {
+      "country_id": 124,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 538,
+    "fields": {
+      "country_id": 125,
+      "language_id": 34
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 539,
+    "fields": {
+      "country_id": 125,
+      "language_id": 130
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 540,
+    "fields": {
+      "country_id": 125,
+      "language_id": 376
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 541,
+    "fields": {
+      "country_id": 125,
+      "language_id": 394
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 542,
+    "fields": {
+      "country_id": 125,
+      "language_id": 396
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 543,
+    "fields": {
+      "country_id": 125,
+      "language_id": 413
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 544,
+    "fields": {
+      "country_id": 126,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 545,
+    "fields": {
+      "country_id": 126,
+      "language_id": 259
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 546,
+    "fields": {
+      "country_id": 127,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 547,
+    "fields": {
+      "country_id": 127,
+      "language_id": 274
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 548,
+    "fields": {
+      "country_id": 128,
+      "language_id": 94
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 549,
+    "fields": {
+      "country_id": 128,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 550,
+    "fields": {
+      "country_id": 129,
+      "language_id": 130
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 551,
+    "fields": {
+      "country_id": 129,
+      "language_id": 164
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 552,
+    "fields": {
+      "country_id": 129,
+      "language_id": 396
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 553,
+    "fields": {
+      "country_id": 129,
+      "language_id": 438
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 554,
+    "fields": {
+      "country_id": 129,
+      "language_id": 458
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 555,
+    "fields": {
+      "country_id": 129,
+      "language_id": 467
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 556,
+    "fields": {
+      "country_id": 130,
+      "language_id": 49
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 557,
+    "fields": {
+      "country_id": 130,
+      "language_id": 94
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 558,
+    "fields": {
+      "country_id": 130,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 559,
+    "fields": {
+      "country_id": 130,
+      "language_id": 171
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 560,
+    "fields": {
+      "country_id": 130,
+      "language_id": 270
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 561,
+    "fields": {
+      "country_id": 130,
+      "language_id": 414
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 562,
+    "fields": {
+      "country_id": 131,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 563,
+    "fields": {
+      "country_id": 131,
+      "language_id": 248
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 564,
+    "fields": {
+      "country_id": 131,
+      "language_id": 253
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 565,
+    "fields": {
+      "country_id": 132,
+      "language_id": 291
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 566,
+    "fields": {
+      "country_id": 132,
+      "language_id": 325
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 567,
+    "fields": {
+      "country_id": 132,
+      "language_id": 329
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 568,
+    "fields": {
+      "country_id": 132,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 569,
+    "fields": {
+      "country_id": 132,
+      "language_id": 464
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 570,
+    "fields": {
+      "country_id": 132,
+      "language_id": 466
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 571,
+    "fields": {
+      "country_id": 133,
+      "language_id": 216
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 572,
+    "fields": {
+      "country_id": 133,
+      "language_id": 299
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 573,
+    "fields": {
+      "country_id": 133,
+      "language_id": 344
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 574,
+    "fields": {
+      "country_id": 133,
+      "language_id": 432
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 575,
+    "fields": {
+      "country_id": 133,
+      "language_id": 457
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 576,
+    "fields": {
+      "country_id": 133,
+      "language_id": 462
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 577,
+    "fields": {
+      "country_id": 134,
+      "language_id": 60
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 578,
+    "fields": {
+      "country_id": 134,
+      "language_id": 135
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 579,
+    "fields": {
+      "country_id": 134,
+      "language_id": 356
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 580,
+    "fields": {
+      "country_id": 134,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 581,
+    "fields": {
+      "country_id": 134,
+      "language_id": 446
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 582,
+    "fields": {
+      "country_id": 135,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 583,
+    "fields": {
+      "country_id": 135,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 584,
+    "fields": {
+      "country_id": 135,
+      "language_id": 183
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 585,
+    "fields": {
+      "country_id": 135,
+      "language_id": 295
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 586,
+    "fields": {
+      "country_id": 136,
+      "language_id": 28
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 587,
+    "fields": {
+      "country_id": 136,
+      "language_id": 64
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 588,
+    "fields": {
+      "country_id": 136,
+      "language_id": 103
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 589,
+    "fields": {
+      "country_id": 136,
+      "language_id": 109
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 590,
+    "fields": {
+      "country_id": 136,
+      "language_id": 199
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 591,
+    "fields": {
+      "country_id": 136,
+      "language_id": 296
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 592,
+    "fields": {
+      "country_id": 137,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 593,
+    "fields": {
+      "country_id": 138,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 594,
+    "fields": {
+      "country_id": 138,
+      "language_id": 48
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 595,
+    "fields": {
+      "country_id": 139,
+      "language_id": 85
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 596,
+    "fields": {
+      "country_id": 139,
+      "language_id": 233
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 597,
+    "fields": {
+      "country_id": 139,
+      "language_id": 252
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 598,
+    "fields": {
+      "country_id": 139,
+      "language_id": 271
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 599,
+    "fields": {
+      "country_id": 139,
+      "language_id": 323
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 600,
+    "fields": {
+      "country_id": 139,
+      "language_id": 358
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 601,
+    "fields": {
+      "country_id": 139,
+      "language_id": 375
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 602,
+    "fields": {
+      "country_id": 139,
+      "language_id": 383
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 603,
+    "fields": {
+      "country_id": 139,
+      "language_id": 434
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 604,
+    "fields": {
+      "country_id": 139,
+      "language_id": 435
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 605,
+    "fields": {
+      "country_id": 140,
+      "language_id": 63
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 606,
+    "fields": {
+      "country_id": 140,
+      "language_id": 81
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 607,
+    "fields": {
+      "country_id": 140,
+      "language_id": 188
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 608,
+    "fields": {
+      "country_id": 140,
+      "language_id": 195
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 609,
+    "fields": {
+      "country_id": 140,
+      "language_id": 198
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 610,
+    "fields": {
+      "country_id": 140,
+      "language_id": 293
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 611,
+    "fields": {
+      "country_id": 140,
+      "language_id": 353
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 612,
+    "fields": {
+      "country_id": 140,
+      "language_id": 382
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 613,
+    "fields": {
+      "country_id": 141,
+      "language_id": 5
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 614,
+    "fields": {
+      "country_id": 141,
+      "language_id": 68
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 615,
+    "fields": {
+      "country_id": 141,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 616,
+    "fields": {
+      "country_id": 141,
+      "language_id": 169
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 617,
+    "fields": {
+      "country_id": 141,
+      "language_id": 197
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 618,
+    "fields": {
+      "country_id": 141,
+      "language_id": 304
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 619,
+    "fields": {
+      "country_id": 141,
+      "language_id": 331
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 620,
+    "fields": {
+      "country_id": 141,
+      "language_id": 367
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 621,
+    "fields": {
+      "country_id": 142,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 622,
+    "fields": {
+      "country_id": 142,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 623,
+    "fields": {
+      "country_id": 142,
+      "language_id": 209
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 624,
+    "fields": {
+      "country_id": 142,
+      "language_id": 306
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 625,
+    "fields": {
+      "country_id": 142,
+      "language_id": 442
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 626,
+    "fields": {
+      "country_id": 143,
+      "language_id": 49
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 627,
+    "fields": {
+      "country_id": 143,
+      "language_id": 171
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 628,
+    "fields": {
+      "country_id": 143,
+      "language_id": 249
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 629,
+    "fields": {
+      "country_id": 143,
+      "language_id": 308
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 630,
+    "fields": {
+      "country_id": 143,
+      "language_id": 309
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 631,
+    "fields": {
+      "country_id": 143,
+      "language_id": 412
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 632,
+    "fields": {
+      "country_id": 143,
+      "language_id": 422
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 633,
+    "fields": {
+      "country_id": 144,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 634,
+    "fields": {
+      "country_id": 144,
+      "language_id": 112
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 635,
+    "fields": {
+      "country_id": 144,
+      "language_id": 127
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 636,
+    "fields": {
+      "country_id": 144,
+      "language_id": 440
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 637,
+    "fields": {
+      "country_id": 145,
+      "language_id": 112
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 638,
+    "fields": {
+      "country_id": 145,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 639,
+    "fields": {
+      "country_id": 145,
+      "language_id": 337
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 640,
+    "fields": {
+      "country_id": 146,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 641,
+    "fields": {
+      "country_id": 146,
+      "language_id": 257
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 642,
+    "fields": {
+      "country_id": 146,
+      "language_id": 346
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 643,
+    "fields": {
+      "country_id": 147,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 644,
+    "fields": {
+      "country_id": 147,
+      "language_id": 268
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 645,
+    "fields": {
+      "country_id": 148,
+      "language_id": 93
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 646,
+    "fields": {
+      "country_id": 148,
+      "language_id": 289
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 647,
+    "fields": {
+      "country_id": 148,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 648,
+    "fields": {
+      "country_id": 148,
+      "language_id": 403
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 649,
+    "fields": {
+      "country_id": 149,
+      "language_id": 130
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 650,
+    "fields": {
+      "country_id": 149,
+      "language_id": 165
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 651,
+    "fields": {
+      "country_id": 149,
+      "language_id": 193
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 652,
+    "fields": {
+      "country_id": 149,
+      "language_id": 395
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 653,
+    "fields": {
+      "country_id": 149,
+      "language_id": 413
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 654,
+    "fields": {
+      "country_id": 150,
+      "language_id": 62
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 655,
+    "fields": {
+      "country_id": 150,
+      "language_id": 115
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 656,
+    "fields": {
+      "country_id": 150,
+      "language_id": 130
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 657,
+    "fields": {
+      "country_id": 150,
+      "language_id": 165
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 658,
+    "fields": {
+      "country_id": 150,
+      "language_id": 176
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 659,
+    "fields": {
+      "country_id": 150,
+      "language_id": 177
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 660,
+    "fields": {
+      "country_id": 150,
+      "language_id": 179
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 661,
+    "fields": {
+      "country_id": 150,
+      "language_id": 186
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 662,
+    "fields": {
+      "country_id": 150,
+      "language_id": 193
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 663,
+    "fields": {
+      "country_id": 150,
+      "language_id": 428
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 664,
+    "fields": {
+      "country_id": 151,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 665,
+    "fields": {
+      "country_id": 151,
+      "language_id": 312
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 666,
+    "fields": {
+      "country_id": 152,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 667,
+    "fields": {
+      "country_id": 153,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 668,
+    "fields": {
+      "country_id": 153,
+      "language_id": 215
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 669,
+    "fields": {
+      "country_id": 154,
+      "language_id": 70
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 670,
+    "fields": {
+      "country_id": 154,
+      "language_id": 75
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 671,
+    "fields": {
+      "country_id": 154,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 672,
+    "fields": {
+      "country_id": 154,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 673,
+    "fields": {
+      "country_id": 154,
+      "language_id": 215
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 674,
+    "fields": {
+      "country_id": 154,
+      "language_id": 341
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 675,
+    "fields": {
+      "country_id": 155,
+      "language_id": 101
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 676,
+    "fields": {
+      "country_id": 155,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 677,
+    "fields": {
+      "country_id": 155,
+      "language_id": 315
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 678,
+    "fields": {
+      "country_id": 155,
+      "language_id": 362
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 679,
+    "fields": {
+      "country_id": 155,
+      "language_id": 408
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 680,
+    "fields": {
+      "country_id": 156,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 681,
+    "fields": {
+      "country_id": 156,
+      "language_id": 33
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 682,
+    "fields": {
+      "country_id": 157,
+      "language_id": 33
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 683,
+    "fields": {
+      "country_id": 157,
+      "language_id": 56
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 684,
+    "fields": {
+      "country_id": 157,
+      "language_id": 172
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 685,
+    "fields": {
+      "country_id": 157,
+      "language_id": 339
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 686,
+    "fields": {
+      "country_id": 157,
+      "language_id": 348
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 687,
+    "fields": {
+      "country_id": 157,
+      "language_id": 373
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 688,
+    "fields": {
+      "country_id": 157,
+      "language_id": 387
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 689,
+    "fields": {
+      "country_id": 157,
+      "language_id": 448
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 690,
+    "fields": {
+      "country_id": 158,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 691,
+    "fields": {
+      "country_id": 158,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 692,
+    "fields": {
+      "country_id": 158,
+      "language_id": 334
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 693,
+    "fields": {
+      "country_id": 158,
+      "language_id": 341
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 694,
+    "fields": {
+      "country_id": 159,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 695,
+    "fields": {
+      "country_id": 159,
+      "language_id": 167
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 696,
+    "fields": {
+      "country_id": 160,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 697,
+    "fields": {
+      "country_id": 160,
+      "language_id": 93
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 698,
+    "fields": {
+      "country_id": 160,
+      "language_id": 97
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 699,
+    "fields": {
+      "country_id": 160,
+      "language_id": 116
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 700,
+    "fields": {
+      "country_id": 160,
+      "language_id": 153
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 701,
+    "fields": {
+      "country_id": 160,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 702,
+    "fields": {
+      "country_id": 161,
+      "language_id": 257
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 703,
+    "fields": {
+      "country_id": 161,
+      "language_id": 338
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 704,
+    "fields": {
+      "country_id": 162,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 705,
+    "fields": {
+      "country_id": 162,
+      "language_id": 152
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 706,
+    "fields": {
+      "country_id": 162,
+      "language_id": 347
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 707,
+    "fields": {
+      "country_id": 162,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 708,
+    "fields": {
+      "country_id": 163,
+      "language_id": 6
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 709,
+    "fields": {
+      "country_id": 163,
+      "language_id": 201
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 710,
+    "fields": {
+      "country_id": 163,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 711,
+    "fields": {
+      "country_id": 164,
+      "language_id": 50
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 712,
+    "fields": {
+      "country_id": 164,
+      "language_id": 72
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 713,
+    "fields": {
+      "country_id": 164,
+      "language_id": 170
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 714,
+    "fields": {
+      "country_id": 164,
+      "language_id": 180
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 715,
+    "fields": {
+      "country_id": 164,
+      "language_id": 247
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 716,
+    "fields": {
+      "country_id": 164,
+      "language_id": 269
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 717,
+    "fields": {
+      "country_id": 164,
+      "language_id": 335
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 718,
+    "fields": {
+      "country_id": 164,
+      "language_id": 336
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 719,
+    "fields": {
+      "country_id": 164,
+      "language_id": 342
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 720,
+    "fields": {
+      "country_id": 164,
+      "language_id": 454
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 721,
+    "fields": {
+      "country_id": 165,
+      "language_id": 343
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 722,
+    "fields": {
+      "country_id": 166,
+      "language_id": 45
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 723,
+    "fields": {
+      "country_id": 166,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 724,
+    "fields": {
+      "country_id": 166,
+      "language_id": 345
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 725,
+    "fields": {
+      "country_id": 166,
+      "language_id": 446
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 726,
+    "fields": {
+      "country_id": 167,
+      "language_id": 347
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 727,
+    "fields": {
+      "country_id": 168,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 728,
+    "fields": {
+      "country_id": 168,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 729,
+    "fields": {
+      "country_id": 169,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 730,
+    "fields": {
+      "country_id": 169,
+      "language_id": 448
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 731,
+    "fields": {
+      "country_id": 170,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 732,
+    "fields": {
+      "country_id": 170,
+      "language_id": 88
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 733,
+    "fields": {
+      "country_id": 170,
+      "language_id": 94
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 734,
+    "fields": {
+      "country_id": 170,
+      "language_id": 253
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 735,
+    "fields": {
+      "country_id": 170,
+      "language_id": 414
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 736,
+    "fields": {
+      "country_id": 171,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 737,
+    "fields": {
+      "country_id": 171,
+      "language_id": 174
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 738,
+    "fields": {
+      "country_id": 171,
+      "language_id": 355
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 739,
+    "fields": {
+      "country_id": 171,
+      "language_id": 356
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 740,
+    "fields": {
+      "country_id": 171,
+      "language_id": 378
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 741,
+    "fields": {
+      "country_id": 171,
+      "language_id": 446
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 742,
+    "fields": {
+      "country_id": 172,
+      "language_id": 25
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 743,
+    "fields": {
+      "country_id": 172,
+      "language_id": 40
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 744,
+    "fields": {
+      "country_id": 172,
+      "language_id": 45
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 745,
+    "fields": {
+      "country_id": 172,
+      "language_id": 76
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 746,
+    "fields": {
+      "country_id": 172,
+      "language_id": 86
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 747,
+    "fields": {
+      "country_id": 172,
+      "language_id": 199
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 748,
+    "fields": {
+      "country_id": 172,
+      "language_id": 272
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 749,
+    "fields": {
+      "country_id": 172,
+      "language_id": 298
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 750,
+    "fields": {
+      "country_id": 172,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 751,
+    "fields": {
+      "country_id": 172,
+      "language_id": 416
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 752,
+    "fields": {
+      "country_id": 172,
+      "language_id": 444
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 753,
+    "fields": {
+      "country_id": 172,
+      "language_id": 446
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 754,
+    "fields": {
+      "country_id": 173,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 755,
+    "fields": {
+      "country_id": 173,
+      "language_id": 361
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 756,
+    "fields": {
+      "country_id": 174,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 757,
+    "fields": {
+      "country_id": 175,
+      "language_id": 93
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 758,
+    "fields": {
+      "country_id": 175,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 759,
+    "fields": {
+      "country_id": 176,
+      "language_id": 94
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 760,
+    "fields": {
+      "country_id": 176,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 761,
+    "fields": {
+      "country_id": 177,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 762,
+    "fields": {
+      "country_id": 178,
+      "language_id": 93
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 763,
+    "fields": {
+      "country_id": 178,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 764,
+    "fields": {
+      "country_id": 179,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 765,
+    "fields": {
+      "country_id": 179,
+      "language_id": 365
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 766,
+    "fields": {
+      "country_id": 179,
+      "language_id": 366
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 767,
+    "fields": {
+      "country_id": 180,
+      "language_id": 183
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 768,
+    "fields": {
+      "country_id": 181,
+      "language_id": 95
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 769,
+    "fields": {
+      "country_id": 181,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 770,
+    "fields": {
+      "country_id": 182,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 771,
+    "fields": {
+      "country_id": 183,
+      "language_id": 107
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 772,
+    "fields": {
+      "country_id": 183,
+      "language_id": 130
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 773,
+    "fields": {
+      "country_id": 183,
+      "language_id": 258
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 774,
+    "fields": {
+      "country_id": 183,
+      "language_id": 379
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 775,
+    "fields": {
+      "country_id": 183,
+      "language_id": 396
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 776,
+    "fields": {
+      "country_id": 183,
+      "language_id": 458
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 777,
+    "fields": {
+      "country_id": 184,
+      "language_id": 377
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 778,
+    "fields": {
+      "country_id": 184,
+      "language_id": 174
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 779,
+    "fields": {
+      "country_id": 184,
+      "language_id": 389
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 780,
+    "fields": {
+      "country_id": 184,
+      "language_id": 356
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 781,
+    "fields": {
+      "country_id": 184,
+      "language_id": 96
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 782,
+    "fields": {
+      "country_id": 184,
+      "language_id": 360
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 783,
+    "fields": {
+      "country_id": 184,
+      "language_id": 10
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 784,
+    "fields": {
+      "country_id": 184,
+      "language_id": 59
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 785,
+    "fields": {
+      "country_id": 184,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 786,
+    "fields": {
+      "country_id": 185,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 787,
+    "fields": {
+      "country_id": 185,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 788,
+    "fields": {
+      "country_id": 185,
+      "language_id": 380
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 789,
+    "fields": {
+      "country_id": 186,
+      "language_id": 61
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 790,
+    "fields": {
+      "country_id": 186,
+      "language_id": 130
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 791,
+    "fields": {
+      "country_id": 186,
+      "language_id": 214
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 792,
+    "fields": {
+      "country_id": 186,
+      "language_id": 220
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 793,
+    "fields": {
+      "country_id": 186,
+      "language_id": 229
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 794,
+    "fields": {
+      "country_id": 186,
+      "language_id": 284
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 795,
+    "fields": {
+      "country_id": 186,
+      "language_id": 419
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 796,
+    "fields": {
+      "country_id": 186,
+      "language_id": 460
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 797,
+    "fields": {
+      "country_id": 187,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 798,
+    "fields": {
+      "country_id": 187,
+      "language_id": 254
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 799,
+    "fields": {
+      "country_id": 187,
+      "language_id": 414
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 800,
+    "fields": {
+      "country_id": 188,
+      "language_id": 99
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 801,
+    "fields": {
+      "country_id": 188,
+      "language_id": 174
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 802,
+    "fields": {
+      "country_id": 188,
+      "language_id": 355
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 803,
+    "fields": {
+      "country_id": 188,
+      "language_id": 389
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 804,
+    "fields": {
+      "country_id": 188,
+      "language_id": 447
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 805,
+    "fields": {
+      "country_id": 189,
+      "language_id": 174
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 806,
+    "fields": {
+      "country_id": 189,
+      "language_id": 378
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 807,
+    "fields": {
+      "country_id": 189,
+      "language_id": 390
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 808,
+    "fields": {
+      "country_id": 190,
+      "language_id": 257
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 809,
+    "fields": {
+      "country_id": 190,
+      "language_id": 338
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 810,
+    "fields": {
+      "country_id": 190,
+      "language_id": 346
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 811,
+    "fields": {
+      "country_id": 191,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 812,
+    "fields": {
+      "country_id": 191,
+      "language_id": 392
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 813,
+    "fields": {
+      "country_id": 192,
+      "language_id": 5
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 814,
+    "fields": {
+      "country_id": 192,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 815,
+    "fields": {
+      "country_id": 192,
+      "language_id": 307
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 816,
+    "fields": {
+      "country_id": 192,
+      "language_id": 314
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 817,
+    "fields": {
+      "country_id": 192,
+      "language_id": 400
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 818,
+    "fields": {
+      "country_id": 192,
+      "language_id": 407
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 819,
+    "fields": {
+      "country_id": 192,
+      "language_id": 434
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 820,
+    "fields": {
+      "country_id": 192,
+      "language_id": 436
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 821,
+    "fields": {
+      "country_id": 192,
+      "language_id": 450
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 822,
+    "fields": {
+      "country_id": 192,
+      "language_id": 459
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 823,
+    "fields": {
+      "country_id": 192,
+      "language_id": 469
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 824,
+    "fields": {
+      "country_id": 193,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 825,
+    "fields": {
+      "country_id": 193,
+      "language_id": 215
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 826,
+    "fields": {
+      "country_id": 194,
+      "language_id": 41
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 827,
+    "fields": {
+      "country_id": 194,
+      "language_id": 71
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 828,
+    "fields": {
+      "country_id": 194,
+      "language_id": 136
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 829,
+    "fields": {
+      "country_id": 194,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 830,
+    "fields": {
+      "country_id": 195,
+      "language_id": 290
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 831,
+    "fields": {
+      "country_id": 195,
+      "language_id": 388
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 832,
+    "fields": {
+      "country_id": 195,
+      "language_id": 414
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 833,
+    "fields": {
+      "country_id": 196,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 834,
+    "fields": {
+      "country_id": 196,
+      "language_id": 38
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 835,
+    "fields": {
+      "country_id": 196,
+      "language_id": 44
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 836,
+    "fields": {
+      "country_id": 196,
+      "language_id": 80
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 837,
+    "fields": {
+      "country_id": 196,
+      "language_id": 106
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 838,
+    "fields": {
+      "country_id": 196,
+      "language_id": 131
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 839,
+    "fields": {
+      "country_id": 196,
+      "language_id": 234
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 840,
+    "fields": {
+      "country_id": 196,
+      "language_id": 317
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 841,
+    "fields": {
+      "country_id": 196,
+      "language_id": 318
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 842,
+    "fields": {
+      "country_id": 196,
+      "language_id": 465
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 843,
+    "fields": {
+      "country_id": 197,
+      "language_id": 171
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 844,
+    "fields": {
+      "country_id": 197,
+      "language_id": 402
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 845,
+    "fields": {
+      "country_id": 198,
+      "language_id": 315
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 846,
+    "fields": {
+      "country_id": 198,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 847,
+    "fields": {
+      "country_id": 199,
+      "language_id": 407
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 848,
+    "fields": {
+      "country_id": 199,
+      "language_id": 469
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 849,
+    "fields": {
+      "country_id": 200,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 850,
+    "fields": {
+      "country_id": 200,
+      "language_id": 124
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 851,
+    "fields": {
+      "country_id": 200,
+      "language_id": 315
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 852,
+    "fields": {
+      "country_id": 200,
+      "language_id": 399
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 853,
+    "fields": {
+      "country_id": 200,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 854,
+    "fields": {
+      "country_id": 200,
+      "language_id": 408
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 855,
+    "fields": {
+      "country_id": 201,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 856,
+    "fields": {
+      "country_id": 201,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 857,
+    "fields": {
+      "country_id": 201,
+      "language_id": 183
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 858,
+    "fields": {
+      "country_id": 201,
+      "language_id": 357
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 859,
+    "fields": {
+      "country_id": 202,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 860,
+    "fields": {
+      "country_id": 202,
+      "language_id": 221
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 861,
+    "fields": {
+      "country_id": 203,
+      "language_id": 14
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 862,
+    "fields": {
+      "country_id": 203,
+      "language_id": 24
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 863,
+    "fields": {
+      "country_id": 203,
+      "language_id": 163
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 864,
+    "fields": {
+      "country_id": 203,
+      "language_id": 263
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 865,
+    "fields": {
+      "country_id": 203,
+      "language_id": 287
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 866,
+    "fields": {
+      "country_id": 203,
+      "language_id": 333
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 867,
+    "fields": {
+      "country_id": 204,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 868,
+    "fields": {
+      "country_id": 204,
+      "language_id": 409
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 869,
+    "fields": {
+      "country_id": 204,
+      "language_id": 449
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 870,
+    "fields": {
+      "country_id": 205,
+      "language_id": 73
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 871,
+    "fields": {
+      "country_id": 205,
+      "language_id": 364
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 872,
+    "fields": {
+      "country_id": 205,
+      "language_id": 54
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 873,
+    "fields": {
+      "country_id": 205,
+      "language_id": 105
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 874,
+    "fields": {
+      "country_id": 205,
+      "language_id": 147
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 875,
+    "fields": {
+      "country_id": 205,
+      "language_id": 159
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 876,
+    "fields": {
+      "country_id": 205,
+      "language_id": 166
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 877,
+    "fields": {
+      "country_id": 205,
+      "language_id": 168
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 878,
+    "fields": {
+      "country_id": 205,
+      "language_id": 238
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 879,
+    "fields": {
+      "country_id": 205,
+      "language_id": 251
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 880,
+    "fields": {
+      "country_id": 205,
+      "language_id": 320
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 881,
+    "fields": {
+      "country_id": 205,
+      "language_id": 321
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 882,
+    "fields": {
+      "country_id": 205,
+      "language_id": 381
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 883,
+    "fields": {
+      "country_id": 205,
+      "language_id": 406
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 884,
+    "fields": {
+      "country_id": 206,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 885,
+    "fields": {
+      "country_id": 206,
+      "language_id": 203
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 886,
+    "fields": {
+      "country_id": 206,
+      "language_id": 222
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 887,
+    "fields": {
+      "country_id": 206,
+      "language_id": 225
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 888,
+    "fields": {
+      "country_id": 206,
+      "language_id": 254
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 889,
+    "fields": {
+      "country_id": 206,
+      "language_id": 421
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 890,
+    "fields": {
+      "country_id": 207,
+      "language_id": 15
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 891,
+    "fields": {
+      "country_id": 207,
+      "language_id": 120
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 892,
+    "fields": {
+      "country_id": 207,
+      "language_id": 157
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 893,
+    "fields": {
+      "country_id": 207,
+      "language_id": 187
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 894,
+    "fields": {
+      "country_id": 207,
+      "language_id": 217
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 895,
+    "fields": {
+      "country_id": 207,
+      "language_id": 292
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 896,
+    "fields": {
+      "country_id": 207,
+      "language_id": 305
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 897,
+    "fields": {
+      "country_id": 207,
+      "language_id": 456
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 898,
+    "fields": {
+      "country_id": 208,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 899,
+    "fields": {
+      "country_id": 208,
+      "language_id": 429
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 900,
+    "fields": {
+      "country_id": 209,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 901,
+    "fields": {
+      "country_id": 209,
+      "language_id": 430
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 902,
+    "fields": {
+      "country_id": 210,
+      "language_id": 93
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 903,
+    "fields": {
+      "country_id": 210,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 904,
+    "fields": {
+      "country_id": 210,
+      "language_id": 171
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 905,
+    "fields": {
+      "country_id": 211,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 906,
+    "fields": {
+      "country_id": 211,
+      "language_id": 17
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 907,
+    "fields": {
+      "country_id": 211,
+      "language_id": 18
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 908,
+    "fields": {
+      "country_id": 212,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 909,
+    "fields": {
+      "country_id": 212,
+      "language_id": 221
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 910,
+    "fields": {
+      "country_id": 212,
+      "language_id": 440
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 911,
+    "fields": {
+      "country_id": 213,
+      "language_id": 199
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 912,
+    "fields": {
+      "country_id": 213,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 913,
+    "fields": {
+      "country_id": 213,
+      "language_id": 441
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 914,
+    "fields": {
+      "country_id": 213,
+      "language_id": 449
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 915,
+    "fields": {
+      "country_id": 214,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 916,
+    "fields": {
+      "country_id": 215,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 917,
+    "fields": {
+      "country_id": 215,
+      "language_id": 209
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 918,
+    "fields": {
+      "country_id": 215,
+      "language_id": 442
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 919,
+    "fields": {
+      "country_id": 216,
+      "language_id": 2
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 920,
+    "fields": {
+      "country_id": 216,
+      "language_id": 137
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 921,
+    "fields": {
+      "country_id": 216,
+      "language_id": 145
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 922,
+    "fields": {
+      "country_id": 216,
+      "language_id": 205
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 923,
+    "fields": {
+      "country_id": 216,
+      "language_id": 224
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 924,
+    "fields": {
+      "country_id": 216,
+      "language_id": 237
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 925,
+    "fields": {
+      "country_id": 216,
+      "language_id": 313
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 926,
+    "fields": {
+      "country_id": 216,
+      "language_id": 361
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 927,
+    "fields": {
+      "country_id": 216,
+      "language_id": 391
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 928,
+    "fields": {
+      "country_id": 216,
+      "language_id": 420
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 929,
+    "fields": {
+      "country_id": 217,
+      "language_id": 45
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 930,
+    "fields": {
+      "country_id": 217,
+      "language_id": 60
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 931,
+    "fields": {
+      "country_id": 217,
+      "language_id": 174
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 932,
+    "fields": {
+      "country_id": 217,
+      "language_id": 345
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 933,
+    "fields": {
+      "country_id": 217,
+      "language_id": 356
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 934,
+    "fields": {
+      "country_id": 217,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 935,
+    "fields": {
+      "country_id": 217,
+      "language_id": 446
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 936,
+    "fields": {
+      "country_id": 218,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 937,
+    "fields": {
+      "country_id": 218,
+      "language_id": 171
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 938,
+    "fields": {
+      "country_id": 219,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 939,
+    "fields": {
+      "country_id": 219,
+      "language_id": 134
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 940,
+    "fields": {
+      "country_id": 219,
+      "language_id": 223
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 941,
+    "fields": {
+      "country_id": 220,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 942,
+    "fields": {
+      "country_id": 220,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 943,
+    "fields": {
+      "country_id": 220,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 944,
+    "fields": {
+      "country_id": 220,
+      "language_id": 142
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 945,
+    "fields": {
+      "country_id": 220,
+      "language_id": 183
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 946,
+    "fields": {
+      "country_id": 220,
+      "language_id": 184
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 947,
+    "fields": {
+      "country_id": 220,
+      "language_id": 215
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 948,
+    "fields": {
+      "country_id": 220,
+      "language_id": 345
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 949,
+    "fields": {
+      "country_id": 220,
+      "language_id": 347
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 950,
+    "fields": {
+      "country_id": 220,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 951,
+    "fields": {
+      "country_id": 220,
+      "language_id": 410
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 952,
+    "fields": {
+      "country_id": 220,
+      "language_id": 451
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 953,
+    "fields": {
+      "country_id": 221,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 954,
+    "fields": {
+      "country_id": 222,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 955,
+    "fields": {
+      "country_id": 223,
+      "language_id": 194
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 956,
+    "fields": {
+      "country_id": 223,
+      "language_id": 199
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 957,
+    "fields": {
+      "country_id": 223,
+      "language_id": 359
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 958,
+    "fields": {
+      "country_id": 223,
+      "language_id": 409
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 959,
+    "fields": {
+      "country_id": 223,
+      "language_id": 416
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 960,
+    "fields": {
+      "country_id": 223,
+      "language_id": 449
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 961,
+    "fields": {
+      "country_id": 224,
+      "language_id": 52
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 962,
+    "fields": {
+      "country_id": 224,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 963,
+    "fields": {
+      "country_id": 224,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 964,
+    "fields": {
+      "country_id": 225,
+      "language_id": 146
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 965,
+    "fields": {
+      "country_id": 225,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 966,
+    "fields": {
+      "country_id": 225,
+      "language_id": 455
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 967,
+    "fields": {
+      "country_id": 226,
+      "language_id": 82
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 968,
+    "fields": {
+      "country_id": 226,
+      "language_id": 203
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 969,
+    "fields": {
+      "country_id": 226,
+      "language_id": 261
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 970,
+    "fields": {
+      "country_id": 226,
+      "language_id": 286
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 971,
+    "fields": {
+      "country_id": 226,
+      "language_id": 302
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 972,
+    "fields": {
+      "country_id": 226,
+      "language_id": 319
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 973,
+    "fields": {
+      "country_id": 226,
+      "language_id": 421
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 974,
+    "fields": {
+      "country_id": 226,
+      "language_id": 423
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 975,
+    "fields": {
+      "country_id": 226,
+      "language_id": 451
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 976,
+    "fields": {
+      "country_id": 227,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 977,
+    "fields": {
+      "country_id": 228,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 978,
+    "fields": {
+      "country_id": 228,
+      "language_id": 126
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 979,
+    "fields": {
+      "country_id": 228,
+      "language_id": 401
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 980,
+    "fields": {
+      "country_id": 229,
+      "language_id": 132
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 981,
+    "fields": {
+      "country_id": 229,
+      "language_id": 453
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 982,
+    "fields": {
+      "country_id": 230,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 983,
+    "fields": {
+      "country_id": 231,
+      "language_id": 16
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 984,
+    "fields": {
+      "country_id": 231,
+      "language_id": 397
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 985,
+    "fields": {
+      "country_id": 232,
+      "language_id": 46
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 986,
+    "fields": {
+      "country_id": 232,
+      "language_id": 77
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 987,
+    "fields": {
+      "country_id": 232,
+      "language_id": 235
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 988,
+    "fields": {
+      "country_id": 232,
+      "language_id": 316
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 989,
+    "fields": {
+      "country_id": 232,
+      "language_id": 323
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 990,
+    "fields": {
+      "country_id": 232,
+      "language_id": 430
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 991,
+    "fields": {
+      "country_id": 233,
+      "language_id": 117
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 992,
+    "fields": {
+      "country_id": 233,
+      "language_id": 307
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 993,
+    "fields": {
+      "country_id": 233,
+      "language_id": 323
+    }
+  },
+  {
+    "model": "countries.country_languages",
+    "pk": 994,
+    "fields": {
+      "country_id": 233,
+      "language_id": 383
+    }
+  }
+]

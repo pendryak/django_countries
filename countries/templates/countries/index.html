@@ -1,0 +1,15 @@
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Countries and Languages</title>
+</head>
+<body>
+<h1><a href="{% url 'index' %}">Countries and Languages</a></h1>
+    <b>Автор</b>: <i>{{ result }}</i>
+    <p><a href="{% url 'countries_list' %}">To countries list</a></p>
+    <p><a href="{% url 'languages_list' %}">To languages list</a></p>
+</body>
+</html>
